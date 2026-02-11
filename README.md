@@ -3,7 +3,7 @@
 
 <h3 align="center">Data Science & AI Engineering Student | Generative AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/24905088-Laptop-Girl">
+<img align="right" alt="[Coding" width="400" src="https://dribbble.com/shots/24715367-Workdesk">
 
 🎓 Data Science & AI student at **ESPRIT School of Engineering (Tunisia)**  
 🌍 Exchange student at **University of Schmalkalden (Germany)**  
