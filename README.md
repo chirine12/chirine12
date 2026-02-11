@@ -1,9 +1,9 @@
 <h1 align="center">Welcome To My GitHub Space 👋</h1>
-<h2 align="center">Hi, I'm Chirine Ourari</h2>
+<h2 align="center">Hi, I'm Shyrine Ourari</h2>
 
 <h3 align="center">Data Science & AI Engineering Student | Generative AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1844446/screenshots/5760248/programmer-girl.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/24905088-Laptop-Girl">
 
 🎓 Data Science & AI student at **ESPRIT School of Engineering (Tunisia)**  
 🌍 Exchange student at **University of Schmalkalden (Germany)**  
@@ -39,8 +39,8 @@
 
 ### 📫 How to reach me
 
-📧 Email: **chirine.ourari@student.esprit.tn**  
-🔗 LinkedIn: **Chirine Ourari**
+📧 Email: **ourarishyrine@gmail.com**  
+🔗 LinkedIn: **Shyrine Ourari**
 
 ---
 
